@@ -111,8 +111,8 @@ let up = `*╭──────────────●●►*
 *╭⊱✫🔮 SILENT-SOBX-MD 🔮✫⊱╮*
 *│✫➠ - 📂REPOSITORY NAME:* *SILENT-SOBX-MD*
 *│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
-*│✫➠ - 🛡️OWNER:* *SILENT LOVER⁴³²*
-*│✫➠ - 🌐URL:* *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
+*│✫➠ - 🛡️OWNER:* *Ongeri💜💜*
+*│✫➠ - 🌐URL:* *https://github.com/Ongeri-brian/SILENT-SOBX-MD*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
