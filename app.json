@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "vYAi3ChZ#VjkJkoYkllDNb7ZWqIHFrPWNMYfLqTdWl1Zg6DoeFK4.",
       "required": true,
       "value": ""
     },  
@@ -34,7 +34,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
@@ -76,7 +76,7 @@
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
@@ -93,7 +93,7 @@
     }, 
 
     "BOT_NAME": {
-      "description": "write hear your name.",
+      "description": "Ongeri💜💜.",
       "required": true,
       "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
     }, 
