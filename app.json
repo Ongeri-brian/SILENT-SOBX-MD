@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "CV42hITJ#vWnjlXodRvuwTibBQwiGAKetV5naB7jMdbVsM2LqTko",
+      "description": "7MxFlLYR#-ajvvGwcO4VhBJAQHgEwNAbd0otWFkapZlGW9hmo51Y",
       "required": true,
       "value": ""
     },  
@@ -34,7 +34,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "private"
+      "value": "pablic"
     }, 
 
     "AUTO_VOICE": {
